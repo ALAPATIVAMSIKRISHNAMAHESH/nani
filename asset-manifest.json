@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nani/static/css/main.3bbc7bc1.chunk.css",
+    "main.js": "/nani/static/js/main.34959f4b.chunk.js",
+    "main.js.map": "/nani/static/js/main.34959f4b.chunk.js.map",
+    "runtime-main.js": "/nani/static/js/runtime-main.153c9eab.js",
+    "runtime-main.js.map": "/nani/static/js/runtime-main.153c9eab.js.map",
+    "static/js/2.41cde6ae.chunk.js": "/nani/static/js/2.41cde6ae.chunk.js",
+    "static/js/2.41cde6ae.chunk.js.map": "/nani/static/js/2.41cde6ae.chunk.js.map",
+    "index.html": "/nani/index.html",
+    "precache-manifest.3d13f0235eeaac6dee6395bc26b14b47.js": "/nani/precache-manifest.3d13f0235eeaac6dee6395bc26b14b47.js",
+    "service-worker.js": "/nani/service-worker.js",
+    "static/css/main.3bbc7bc1.chunk.css.map": "/nani/static/css/main.3bbc7bc1.chunk.css.map",
+    "static/js/2.41cde6ae.chunk.js.LICENSE.txt": "/nani/static/js/2.41cde6ae.chunk.js.LICENSE.txt",
+    "static/media/businessman.svg": "/nani/static/media/businessman.18284747.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.153c9eab.js",
+    "static/js/2.41cde6ae.chunk.js",
+    "static/css/main.3bbc7bc1.chunk.css",
+    "static/js/main.34959f4b.chunk.js"
+  ]
+}
