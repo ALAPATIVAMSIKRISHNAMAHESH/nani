@@ -1,0 +1,94 @@
+{
+    "profiles":
+    [
+        {
+              "basics":{
+                  "name":"nani",
+                  "email":"nani@gmail.com",
+                  "mobile":"+91 9492300710"
+              },
+              "education":[
+                  {
+                  "degree":"ssc",
+                  "percentage":"85",
+                  "institute":"gov"
+                  },
+                  {
+                      "degree":"diploma",
+                      "percentage":"83",
+                      "institute":"aanm"
+                      },
+                      {
+                          "degree":"Btech",
+                          "percentage":"63",
+                          "institute":"VVIT"
+                      }
+              ],
+              "skills":[
+                {
+                    "type":"programming languages",
+                    "values":["c","c++","java","python"]
+                },
+                {
+                    "type":"web technologies",
+                    "values":["html","css","java script"]
+                },
+                {
+                    
+                        "type":"Frameworks & Libraries",
+                        "values":["React js"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","linux","ubuntu"]
+                }
+            ]
+        },
+        {
+            
+          "basics":{
+              "name":"vamsi",
+              "email":"vamsi@gmail.com",
+              "mobile":"+91 6303795754"
+          },
+          "education":[
+              {
+              "degree":"ssc",
+              "percentage":"87",
+              "institute":"gov"
+              },
+              {
+                  "degree":"inter",
+                  "percentage":"85",
+                  "institute":"manasa"
+                  },
+                  {
+                      "degree":"Btech",
+                      "percentage":"60",
+                      "institute":"VVIT"
+                  }
+          ],           "skills":[
+            {
+                "type":"programming languages",
+                "values":["c","c++","java","python"]
+            },
+            {
+                "type":"web technologies",
+                "values":["html","css","java script"]
+            },
+            {
+                
+                    "type":"Frameworks & Libraries",
+                    "values":["React js"]
+            },
+            {
+                "type":"Operating Systems",
+                "values":["Windows","linux","ubuntu"]
+            }
+        ]
+        }
+   ]
+  
+  }
+
+ 
